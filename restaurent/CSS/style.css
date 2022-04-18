@@ -1,0 +1,22 @@
+*{ margin:0; padding:0; box-sizing: border-box; }
+
+.carousel-inner {
+    width: 100%;
+    height: 90vh;
+  }
+
+ 
+ p.story{
+              line-height: 2.8;
+              font-size: 40px;
+              color: #890F0D;
+              font-family:'Capriola' ;
+              text-align: center;
+            }   
+
+p.detail{
+              font-size: small;
+              text-align: center;
+              font-family:'Capriola' ;
+            
+            }
